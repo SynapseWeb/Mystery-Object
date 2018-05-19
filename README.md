@@ -8,5 +8,5 @@ Each member of the Reconstruct team is encouraged to clone this repository and w
 ![MysteryObject](images/sections_so_far.gif?raw=true "MysteryObject")
 
 
-## All 57 frames (showing which have been completed):
+## All 57 sections (showing which have been completed):
 ![CompletedFrames](images/All_Frames_Done.png?raw=true "CompletedFrames")

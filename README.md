@@ -10,3 +10,5 @@ Each member of the Reconstruct team is encouraged to clone this repository and w
 
 ## All 57 sections (showing which have been completed):
 ![CompletedFrames](images/All_Frames_Done.png?raw=true "CompletedFrames")
+
+Lyndsey was here

@@ -12,5 +12,11 @@ Each member of the Reconstruct team is encouraged to clone this repository and w
 ![CompletedFrames](images/All_Frames_Done.png?raw=true "CompletedFrames")
 
 Lyndsey was here
+
 Dusten was here
+<<<<<<< HEAD
 Dakota was only here in spirit. 
+=======
+
+Bob was here (worked on sections 1 and 2).
+>>>>>>> b130121db3c324d0124f98be86d13bd1b7dcd5a0

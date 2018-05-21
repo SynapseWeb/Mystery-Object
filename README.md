@@ -13,7 +13,7 @@ Each member of the Reconstruct team is encouraged to clone this repository and w
 
 Lyndsey was here
 
-Dusten was here
+Dusten was here (worked on sections 3-7).
 
 Dakota was only here in spirit. 
 

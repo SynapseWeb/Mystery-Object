@@ -19,3 +19,4 @@ Dakota was only here in spirit.
 
 Bob was here (worked on sections 1 and 2).
 
+Bob: I'm going to add the missing object to Section 5 and work on 30 through 35.

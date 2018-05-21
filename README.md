@@ -12,4 +12,7 @@ Each member of the Reconstruct team is encouraged to clone this repository and w
 ![CompletedFrames](images/All_Frames_Done.png?raw=true "CompletedFrames")
 
 Lyndsey was here
+
 Dusten was here
+
+Bob was here (worked on sections 1 and 2).

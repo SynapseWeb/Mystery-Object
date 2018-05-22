@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<<<<<<< HEAD
-<Series index="34" viewport="-2.24701 -0.876504 0.00480605"
-=======
-<Series index="5" viewport="-3.4716 -1.12898 0.00426611"
->>>>>>> 7ad825a77092e7cdd67c2ed50e05487f8f31f461
+<Series index="51" viewport="-1.82073 -0.0483484 0.00297169"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"
@@ -36,7 +32,7 @@
 	defaultBorder="1.000 0.000 1.000"
 	defaultFill="1.000 0.000 1.000"
 	defaultMode="9"
-	defaultName="domain1"
+	defaultName="domain$+"
 	defaultComment=""
 	listSectionThickness="true"
 	listDomainSource="true"

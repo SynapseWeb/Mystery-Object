@@ -22,3 +22,5 @@ Bob was here (worked on sections 1 and 2).
 Bob: I'm going to add the missing object to Section 5 and work on 30 through 35.
 
 Bob: Done with 30 though 35 (although they could use some professional help).
+
+Dakota: Working on sections 15-30 (NO TOUCH). Will also review and modify section 30-35 traces as needed. 

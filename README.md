@@ -27,4 +27,4 @@ Dakota: Working on sections 15-29 (NO TOUCH). Will also review and modify sectio
 
 Dusten: Tracing sections 36-50 (15 sections)
 
-Dakota: Done with 15 - 29 and cleaned up Bob's traces on 30-35.
+Dakota: Done with 15 - 29 and cleaned up Bob's traces on 30-35. Also re-named trace on section 34 from "domain2" to "domain1"

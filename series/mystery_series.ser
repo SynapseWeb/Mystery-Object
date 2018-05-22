@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE Series SYSTEM "series.dtd">
 
-<<<<<<< HEAD
-<Series index="12" viewport="-3.16157 -1.8269 0.00605947"
-=======
-<Series index="1" viewport="-0.571341 -0.220687 0.00307409"
->>>>>>> 590bacd0a84ab297301177a27fd1bb35e9ad8265
+<Series index="1" viewport="-0.143954 -0.553335 0.00332588"
 	units="microns"
 	autoSaveSeries="true"
 	autoSaveSection="true"

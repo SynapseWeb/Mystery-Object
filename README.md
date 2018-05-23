@@ -4,8 +4,15 @@ This project contains a "mystery" object to test the use of Git for tracing proj
 ## Invitation
 Each member of the Reconstruct team is encouraged to clone this repository and work on a few sections of the "mystery object" in Reconstruct. When you've added a trace or two (or modified someone else's traces), please commit and push your changes back to the GitHub repository and see what kinds of conflicts arise. Eventually, the entire object should be completed by the team.
 
-## The "Mystery Object" so far (May 22nd, 2018) with sections 1-50 completed:
-![MysteryObject](images/sections_so_far.gif?raw=true "MysteryObject")
+## Conclusion
+Several members of the Reconstruct team traced different portions of the "Mystery Object" and shared those traces via GitHub to develop the final 3D model shown below. Thanks to everyone who participated.
+
+## The final reconstructed "Mystery Object" as of May 22nd, 2018:
+![MysteryObjectReconstruct](docs/all_frames_reconstruct.gif?raw=true "MysteryObjectReconstruct")
+
+
+## The original "Mystery Object" as created in Blender:
+![MysteryObjectOriginal](docs/all_frames_original.gif?raw=true "MysteryObjectOriginal")
 
 
 ## All 57 sections (showing which have been completed):

@@ -15,4 +15,21 @@
 	"/>
 </Transform>
 
+<Transform dim="0"
+ xcoef=" 0 1 0 0 0 0"
+ ycoef=" 0 0 1 0 0 0">
+<Contour name="domain1" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+ points="1.21916 1.37962,
+	1.23973 1.36453,
+	1.2507 1.37139,
+	1.25208 1.37276,
+	1.24385 1.38373,
+	1.23288 1.39333,
+	1.22328 1.40019,
+	1.22053 1.38922,
+	1.21916 1.38373,
+	1.21916 1.38099,
+	"/>
+</Transform>
+
 </Section>
